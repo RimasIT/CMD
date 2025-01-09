@@ -17,8 +17,50 @@ This is a simple batch script designed to monitor the status of your internet co
 
 The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
 
+<hr>
 
-### Method 2 - Traditional (Windows 7 and later)
+### Script 3 - Check Licencing Script ❤️
+
+The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
+
+<hr>
+
+### Script 4 - Check Licencing Script ❤️
+
+The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
+
+<hr>
+
+### Script 5 - Check Licencing Script ❤️
+
+The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
+
+<hr>
+
+### Script 6 - Check Licencing Script ❤️
+
+The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
+
+<hr>
+
+### Script 7 - Check Licencing Script ❤️
+
+The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
+
+<hr>
+
+### Script 8 - Check Licencing Script ❤️
+
+The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
+
+<hr>
+
+### Script 9 - Check Licencing Script ❤️
+
+The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
+
+
+### Method 10 - Traditional (Windows 7 and later)
 
 <details>
   <summary>Click here for info</summary>
