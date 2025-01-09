@@ -31,9 +31,9 @@ This script is a handy tool for users or administrators to quickly gather system
 
 <hr>
 
-### Script 5 - Check Licencing Script ❤️
+### Script 5 - Other. Script ❤️
 
-The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
+This script is a Windows Batch File designed to automate various system-related tasks and provide quick access to some common tools and system information. It presents the user with a menu-driven interface that allows them to select a task, which the script then executes. The tasks range from downloading software to retrieving system information, managing power settings, and even interacting with various administrative tools.v
 
 <hr>
 
