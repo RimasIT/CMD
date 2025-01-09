@@ -2,7 +2,7 @@
 
 <h1 align="center">CMD Batch Files</h1>
 
-<p align="center">Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p>
+<p align="center">Troubleshooting.</p>
 
 <hr>
   
