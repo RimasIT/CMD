@@ -25,9 +25,9 @@ This script is a convenient way to automate common system repair, cleanup, and m
 
 <hr>
 
-### Script 4 - Check Licencing Script ❤️
+### Script 4 - Computer Information Script ❤️
 
-The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
+This script is a handy tool for users or administrators to quickly gather system-related information on a Windows 10 machine. It improves the user experience and makes it easier to find the required data. Whether it's for troubleshooting, system audits, or general curiosity, this script provides a clean and organized report of system configuration.
 
 <hr>
 
