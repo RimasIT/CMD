@@ -1,7 +1,3 @@
-1. Scritp - Internet Connectivity Monitoring Script (Batch)
-This is a simple batch script designed to monitor the status of your internet connection continuously. The script checks the connectivity to www.google.com by sending a single ping request every second. Based on the result of the ping, it outputs a message to indicate whether the internet connection is active or lost.
-
-
 <p align="center"><img src="https://files.softicons.com/download/system-icons/rounded-square-icons-by-deleket/png/256x256/Win-Command-Prompt.png" alt="Logo"></p>
 
 <h1 align="center">CMD Batch Files</h1>
@@ -15,18 +11,10 @@ This is a simple batch script designed to monitor the status of your internet co
 
 This is a simple batch script designed to monitor the status of your internet connection continuously. The script checks the connectivity to www.google.com by sending a single ping request every second. Based on the result of the ping, it outputs a message to indicate whether the internet connection is active or lost.
 
-<details>
-  <summary>More options</summary>
+### Script 2 - Internet Connectivity Monitoring Script ❤️
 
-- Alternatively, you can use the following (It will be deprecated in the future.)
-```
-irm https://massgrave.dev/get | iex
-```
-- The URL `get.activated.win` might be blocked by some DNS services because it is a new domain.
+This is a simple batch script designed to monitor the status of your internet connection continuously. The script checks the connectivity to www.google.com by sending a single ping request every second. Based on the result of the ping, it outputs a message to indicate whether the internet connection is active or lost.
 
-</details>
-
----
 
 ### Method 2 - Traditional (Windows 7 and later)
 
