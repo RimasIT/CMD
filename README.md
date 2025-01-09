@@ -13,9 +13,9 @@ This is a simple batch script designed to monitor the status of your internet co
 
 <hr>
 
-### Script 2 - Internet Connectivity Monitoring Script ❤️
+### Script 2 - Check Licencing Script ❤️
 
-This is a simple batch script designed to monitor the status of your internet connection continuously. The script checks the connectivity to www.google.com by sending a single ping request every second. Based on the result of the ping, it outputs a message to indicate whether the internet connection is active or lost.
+The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
 
 
 ### Method 2 - Traditional (Windows 7 and later)
