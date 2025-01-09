@@ -2,7 +2,7 @@
 This is a simple batch script designed to monitor the status of your internet connection continuously. The script checks the connectivity to www.google.com by sending a single ping request every second. Based on the result of the ping, it outputs a message to indicate whether the internet connection is active or lost.
 
 
-<p align="center"><img src="[https://massgrave.dev/img/logo_small.png](https://mlfk3cv5yvnx.i.optimole.com/cb:bn-b.2fe21/w:930/h:485/q:mauto/f:best/https://www.ninjaone.com/wp-content/uploads/elementor/thumbs/N1-0921-Windows-CMD-Commands-You-Need-to-Know-blog-image-2-qvjtaq0fhxhzkuuel3xr3mwst5thvoor3jjybjtboy.png)" alt="MAS Logo"></p>
+<p align="center"><img src="https://files.softicons.com/download/system-icons/rounded-square-icons-by-deleket/png/256x256/Win-Command-Prompt.png" alt="Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
