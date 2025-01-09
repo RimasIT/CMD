@@ -4,7 +4,7 @@ This is a simple batch script designed to monitor the status of your internet co
 
 <p align="center"><img src="https://files.softicons.com/download/system-icons/rounded-square-icons-by-deleket/png/256x256/Win-Command-Prompt.png" alt="Logo"></p>
 
-<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
+<h1 align="center">CMD Batch Files</h1>
 
 <p align="center">Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p>
 
