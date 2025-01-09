@@ -19,9 +19,9 @@ The script is a powerful utility for administrators or power users to quickly ga
 
 <hr>
 
-### Script 3 - Check Licencing Script ❤️
+### Script 3 - Repair Computer Script ❤️
 
-The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
+This script is a convenient way to automate common system repair, cleanup, and maintenance tasks in Windows, providing an efficient solution for administrators or advanced users who want to ensure their system stays healthy and well-maintained.
 
 <hr>
 
@@ -47,20 +47,7 @@ The script is a powerful utility for administrators or power users to quickly ga
 
 The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
 
-<hr>
 
-### Script 8 - Check Licencing Script ❤️
-
-The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
-
-<hr>
-
-### Script 9 - Check Licencing Script ❤️
-
-The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
-
-
-### Method 10 - Traditional (Windows 7 and later)
 
 <details>
   <summary>Click here for info</summary>
