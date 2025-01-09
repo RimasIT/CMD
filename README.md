@@ -10,7 +10,6 @@ This is a simple batch script designed to monitor the status of your internet co
 
 <hr>
   
-## Download / How to use it?
 
 ### Method 1 - PowerShell (Windows 8 and later) ❤️
 
