@@ -37,9 +37,9 @@ This script is a Windows Batch File designed to automate various system-related 
 
 <hr>
 
-### Script 6 - Check Licencing Script ❤️
+### Script 6 - Restart Computer in Minutes Script ❤️
 
-The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
+This script is a Windows batch file designed to restart the computer after a specified number of minutes. It allows the user to input the number of minutes, calculates the equivalent time in seconds, and then schedules a system shutdown with that delay.
 
 <hr>
 
