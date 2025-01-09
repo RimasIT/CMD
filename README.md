@@ -43,9 +43,9 @@ This script is a Windows batch file designed to restart the computer after a spe
 
 <hr>
 
-### Script 7 - Check Licencing Script ❤️
+### Script 7 - USER_BITLOCKER_INTERNET ❤️
 
-The script is a powerful utility for administrators or power users to quickly gather detailed activation status information for both Windows and Microsoft Office on a system. It helps in troubleshooting activation issues, verifying license status, and checking for potential problems with KMS activation, grace periods, and product keys.
+This script is a Windows batch file designed to provide a text-based menu system for performing various system administration tasks. The script organizes functionality into three main categories: User Management, Internet Management, and BitLocker Management. Each category contains specific actions that can be chosen by the user.
 
 
 
