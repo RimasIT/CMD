@@ -46,3 +46,9 @@ This script is a Windows batch file designed to restart the computer after a spe
 ### Script 7 - USER_BITLOCKER_INTERNET 🖥️
 
 This script is a Windows batch file designed to provide a text-based menu system for performing various system administration tasks. The script organizes functionality into three main categories: User Management, Internet Management, and BitLocker Management. Each category contains specific actions that can be chosen by the user.
+
+<hr>
+
+### Script 8 - Wi-Fi Profile Password Viewer 🖥️
+
+It allows users to view the passwords of saved Wi-Fi networks on a Windows machine. 
